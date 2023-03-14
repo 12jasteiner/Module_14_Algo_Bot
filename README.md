@@ -7,5 +7,5 @@
 ![alt text](Actual_vs_algo_returns_1.png)
 
 
-### Plot after increasing training period to 6 months. 
+### Plot after increasing training period to 6 months. Improved recall. Model is more predictive than original through late 2018, but appears to be less predictive for more recent dates.
 ![alt text](Actual_vs_algo_returns_2.png)
