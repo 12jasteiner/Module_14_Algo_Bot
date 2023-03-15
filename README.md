@@ -1,6 +1,6 @@
 # Module_14_Algo_Bot
 
-## The purpose of this program is to create an algo trading bot that responds to signals using the dual moving avg crossover (DMAC) strategy. 
+## The purpose of this program is to create an algo trading bot that responds to signals using the dual moving avg crossover (DMAC) strategy. Three support vector machine (svm) models and logistic regression model created, plotted, and evaluated.
 
 =================================================
 ### Original Plot (Baseline performance):
